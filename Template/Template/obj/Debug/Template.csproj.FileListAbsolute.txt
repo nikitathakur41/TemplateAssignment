@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Template\Template\obj\Debug\Template.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Template\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Template\Template\bin\Debug\Template.exe.config
+C:\Users\Hp\source\repos\Template\Template\bin\Debug\Template.exe
+C:\Users\Hp\source\repos\Template\Template\bin\Debug\Template.pdb
+C:\Users\Hp\source\repos\Template\Template\obj\Debug\Template.exe
+C:\Users\Hp\source\repos\Template\Template\obj\Debug\Template.pdb
